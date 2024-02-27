@@ -1,4 +1,3 @@
 print("Ashish Kukreti")
-print("anuj ramola_fork")
-print("Prince Rana")
-print("Manya Juneja")
+print("anuj ramola")
+print("Prince Rana_forked")
