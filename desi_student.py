@@ -1,2 +1,3 @@
 print("Ashish Kukreti")
-prin("anuj ramola")
+print("anuj ramola")
+print("Prince Rana")
